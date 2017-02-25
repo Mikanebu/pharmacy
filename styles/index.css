@@ -1,4 +1,4 @@
-/* CSS Document */
+
 html{
 	overflow-y: scroll;
 }
@@ -278,7 +278,7 @@ a{
 	width:900px;
 	overflow:hidden;
 	display:inline-block;
-	
+
 }
 .quick-section {
 	width:1250px;
@@ -532,7 +532,7 @@ a{
 	padding:0px 0px 0px 42px;
 	height:32px;
 	display:inline-block;
-	
+
 }
 .pdf-link span {
 	 display:inline-block;
@@ -742,7 +742,7 @@ ul, li {
 
 .top-menu a{
 	display: block;
-	
+
 	margin: 20px 21px;
 	color: rgb(81, 86, 92);
 	cursor: auto;
@@ -874,7 +874,7 @@ display:block;
 	width 290px;
 	float: left;
 	padding:10px;
-	
+
 }
 
 .product-catalog-tiles-article h2{
@@ -999,7 +999,7 @@ img.title{
 	padding: 5px;
 	border-radius: 10px;
 	border: 2px solid black;
-	
+
 }
 .liquiband-technique img {
 	float:right;
@@ -1023,7 +1023,7 @@ img.title{
 ul.description
 {
 	display:block;
-	margin: 20px 80px; 
+	margin: 20px 80px;
 	list-style-type:disc;
 }
 div.feedback-texts {
